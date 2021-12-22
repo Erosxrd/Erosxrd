@@ -1,5 +1,4 @@
 ### Hello I'm Eros Çınar
-![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Erosxrd&color=red)&nbsp;
 [![GitHub Erosxrd](https://img.shields.io/github/followers/Erosxrd?label=follow&style=social)](https://github.com/Erosxrd)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
@@ -22,7 +21,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 📫 &nbsp; How to reach me:
-<a href="mailto:acarfx@icloud.com"><img alt="Gmail" src="https://img.shields.io/badge/iCloud-D14836?style=flat&logo=icloud&logoColor=white" /></a> &nbsp;
-<a href="https://discord.com/users/327236967265861633"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
-<a href="https://instagram.com/acarfx"><img src="https://img.shields.io/badge/@acarfx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-
+<a href="https://discord.com/users/491173207555178497"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
+<a href="https://instagram.com/ctncinar"><img src="https://img.shields.io/badge/@ctncinar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
